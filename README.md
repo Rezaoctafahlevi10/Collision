@@ -1,2 +1,1 @@
-# Collision
-collision grafika computer 
+Tutorial collision with open gl python
